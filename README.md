@@ -35,7 +35,7 @@ I started programming when I was in school  but I fall in love with it when I ca
 - 📝[Resume](https://docs.google.com/document/d/1F9YWQtEo1DHjwG19STxY-fZMv4HGYCqW_2C_I0KGTOw/edit?usp=sharing)
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sejal16&show_icons=true&hide_border=true" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Sejal16&show_icons=true&hide_border=true" width="40%" height="50%">
 
 ⭐️ From [Sejal Agarwal](https://github.com/Sejal16)
   
