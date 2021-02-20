@@ -24,7 +24,7 @@ I started programming when I was in school  but I fall in love with it when I ca
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.freepik.com/free-vector/programmer-working-with-php_5480316.htm#page=1&query=programmer&position=45" />
  
 ## **Talking about Personal Stuffs:**
 
@@ -37,5 +37,5 @@ I started programming when I was in school  but I fall in love with it when I ca
 
 ![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=Sejal16&show_icons=true&hide_border=true)
 
-⭐️ From [abhinavprkash](https://github.com/Sejal16)
+⭐️ From [Sejal Agarwal](https://github.com/Sejal16)
   
