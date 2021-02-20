@@ -24,7 +24,7 @@ I started programming when I was in school  but I fall in love with it when I ca
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/female-programmer-flat-color-detailed-character-website-design-development-job-woman-coding-work-it-industry-isolated-cartoon-illustration-web-graphic-design-animation_151150-2866.jpg?size=338&ext=jpg" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif" />
  
 ## **Talking about Personal Stuffs:**
 
