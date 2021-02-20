@@ -24,7 +24,7 @@ I started programming when I was in school  but I fall in love with it when I ca
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif" width="50%">
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/3o7bu6rpK7GL2KWlO0/giphy.gif" >
  
 ## **Talking about Personal Stuffs:**
 
@@ -34,7 +34,7 @@ I started programming when I was in school  but I fall in love with it when I ca
 - 📫 How to reach me: sejal.august16@gmail.com
 - 📝[Resume](https://docs.google.com/document/d/1F9YWQtEo1DHjwG19STxY-fZMv4HGYCqW_2C_I0KGTOw/edit?usp=sharing)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sejal16&show_icons=true&hide_border=true" width="30">
 ![Sejal Agarwal](https://github-readme-stats.vercel.app/api?username=Sejal16&show_icons=true&hide_border=true)
 
 ⭐️ From [Sejal Agarwal](https://github.com/Sejal16)
