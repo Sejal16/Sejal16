@@ -1,5 +1,5 @@
 
-### Hi there, I am Sejal Agarwal 👋
+## Hi there, I am Sejal Agarwal 👋
 
 I am a **Information Technology** Sophomore persuing **B. Tech** from **Techno Main SaltLake**.
 
