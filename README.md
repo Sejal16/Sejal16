@@ -29,8 +29,8 @@ I started programming when I was in school  but I fall in love with it when I ca
 ## **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning JavaScript
-- 🔭 I’m trying to build a strong grip in  Data Structure and Algorithm
-- 💬 Ask me about anything,I am happy to build
+- 🔭 I’m trying to build a strong grip on  Data Structure and Algorithm
+- 💬 Ask me about anything,I am happy to help
 - 📫 How to reach me: sejal.august16@gmail.com
 - 📝[Resume](https://docs.google.com/document/d/1F9YWQtEo1DHjwG19STxY-fZMv4HGYCqW_2C_I0KGTOw/edit?usp=sharing)
 
